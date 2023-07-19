@@ -1,0 +1,7 @@
+Luma Test Cases –
+The same sheet as the screenshot above but with two additional test cases created by you.
+The test cases must be of a logged in user that:
+▪ Adds a 3 stars product to cart (from Home>Men>Tops>Tees) without selecting its size and colour then verify
+that “You need to choose options for your item.” gets displayed. Product must be added in the multiple products view.
+▪ Adds an orange Miko Pullover Hoodie of any size to the cart using the search field then checks out to
+complete the order by capturing your details.
